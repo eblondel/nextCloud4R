@@ -6,7 +6,7 @@
 \alias{nextCloud4R-package}
 \title{Interface to 'Nextcloud' REST API}
 \description{
-Provides an Interface to 'Nextcloud' (<https://owncloud.com/>) REST API.
+Provides an Interface to 'Nextcloud' (<https://nextcloud.com/>) REST API.
 }
 \details{
 \tabular{ll}{

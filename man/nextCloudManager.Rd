@@ -23,18 +23,6 @@ nextCloudManager
    NULL, "INFO" (with minimum logs), or "DEBUG" (for complete curl 
    http calls logs)
  }
- \item{\code{connect()}}{
-   A method to connect to 'Nextcloud' 
- }
- \item{\code{getVersion()}}{
-   Get the 'ownCloud' server version
- }
- \item{\code{getCapabilities()}}{
-   Get the 'ownCloud' server capabilities
- }
- \item{\code{getWebdavRoot()}}{
-   Get the 'ownCloud' WebDAV root URL
- }
 }
 }
 
