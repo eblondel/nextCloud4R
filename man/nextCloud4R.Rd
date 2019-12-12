@@ -13,7 +13,7 @@ Provides an Interface to 'Nextcloud' (<https://nextcloud.com/>) REST API.
    Package: \tab nextCloud4R\cr
    Type: \tab Package\cr
    Version: \tab 0.0.9000\cr
-   Date: \tab 2019-11-06\cr
+   Date: \tab 2019-12-12\cr
    License: \tab MIT\cr
    LazyLoad: \tab yes\cr
  }

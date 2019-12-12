@@ -18,15 +18,8 @@
 #' 
 nextCloudManager <-  R6Class("nextCloudManager",
   inherit = ocs4R::ocsManager,
-  private = list(
-    url = NULL,
-    user = NULL,
-    pwd = NULL,
-    version = NULL,
-    capabilities = NULL
-  ),
+  lock_objects = FALSE,
   public = list(
-    
     initialize = function(url, user, pwd, logger = NULL){
       super$initialize(url, user, pwd, logger)
     }
